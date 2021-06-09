@@ -7,10 +7,10 @@ class Todo extends React.Component {
 
     render() {
         return(
-            <div className="todo">
+            <li>
                 <input type="checkbox"/>
                 <label>{this.props.name}</label>
-            </div>
+            </li>
         )
     }
 }
