@@ -30,19 +30,3 @@ code {
   justify-content: center;
   align-items: center;
 }
-
-.card-style-0 {
-  background-color: red;
-}
-
-.card-style-1 {
-  background-color: orange;
-}
-
-.card-style-2 {
-  background-color: yellow;
-}
-
-.card-style-3 {
-  background-color: green;
-}
